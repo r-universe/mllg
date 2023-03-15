@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "batchtools"]
-	path = batchtools
-	url = https://github.com/mllg/batchtools
-	shallow = true
-	registered = true
-[submodule "fail"]
-	path = fail
-	url = https://github.com/mllg/fail
-	shallow = true
-	registered = true
 [submodule "base64url"]
 	path = base64url
 	url = https://github.com/mllg/base64url
 	shallow = true
 	registered = true
+[submodule "batchtools"]
+	path = batchtools
+	url = https://github.com/mllg/batchtools
+	shallow = true
+	registered = true
 [submodule "checkmate"]
 	path = checkmate
 	url = https://github.com/mllg/checkmate
+	shallow = true
+	registered = true
+[submodule "fail"]
+	path = fail
+	url = https://github.com/mllg/fail
 	shallow = true
 	registered = true
