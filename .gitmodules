@@ -5,9 +5,6 @@
 [submodule "base64url"]
 	path = base64url
 	url = https://github.com/mllg/base64url
-[submodule "batchtools"]
-	path = batchtools
-	url = https://github.com/mllg/batchtools
 [submodule "checkmate"]
 	path = checkmate
 	url = https://github.com/mllg/checkmate
